@@ -1,7 +1,7 @@
 # Hi!
 
-I build across AI, fintech, and healthcare.
-My work encompasses payment infrastructure, AI-driven platforms, and tools that enable independent businesses to thrive.  
+I build across AI, fintech, and healthcare.  
+My work encompasses payment infrastructure, AI-driven platforms, and tools that enable independent businesses to thrive.  My go-to stack is  Python, TypeScript, React, and PostgreSQL. On the architecture side, I'm a huge believer in DDD and Hexagonal Architecture. The beauty of a carefully orchestrated dependency inversion is something one must experience to truly appreciate.
 
 ## Current Focus
 - Building innovative fintech products. 
