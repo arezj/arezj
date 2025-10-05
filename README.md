@@ -1,4 +1,4 @@
-# Hi,
+# Hi!
 
 I build across AI, fintech, and healthcare.
 My work encompasses payment infrastructure, AI-driven platforms, and tools that enable independent businesses to thrive.  
